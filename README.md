@@ -1,4 +1,7 @@
-# PennWellApp Zip File
+# Work, Play, Sleep App
+Wellness & Productivity App consisting of an all-in-one calendar to handle event scheduling, task creation, and wellness tracking integrations -- enhancing students' ability to be both productive and stay well. 
+
+## PennWellApp Zip File
 Main repo for PennWellApp. Contains the web app, as well as the wiki.
 
 ## Other Zip Files
